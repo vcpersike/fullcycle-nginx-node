@@ -14,5 +14,15 @@ Este projeto é parte do desafio da plataforma **[Full Cycle](https://fullcycle.
 
 ---
 
-## 🧱 Estrutura do Projeto
+---
 
+## 🐳 Imagem no Docker Hub
+
+A imagem está disponível em:
+
+👉 [https://hub.docker.com/r/devvictorpersike/fullcycle-nginx-node](https://hub.docker.com/r/devvictorvcpersike/fullcycle-nginx-node)
+
+Para rodar diretamente:
+
+```bash
+docker run -p 8080:80 devvictorpersike/fullcycle-nginx-node
